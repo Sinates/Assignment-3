@@ -1,0 +1,7 @@
+C:\Users\Ruth\source\repos\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe.config
+C:\Users\Ruth\source\repos\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe
+C:\Users\Ruth\source\repos\Assignment 3\Assignment 3\bin\Debug\Assignment 3.pdb
+C:\Users\Ruth\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.AssemblyReference.cache
+C:\Users\Ruth\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\Ruth\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.exe
+C:\Users\Ruth\source\repos\Assignment 3\Assignment 3\obj\Debug\Assignment 3.pdb
